@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yuxunguo
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - yuxunguo/GUMP-Global-GPDs
+  - yuxunguo/DVCS-twist-2-scalar-coefficients
