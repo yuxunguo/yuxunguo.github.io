@@ -1,61 +1,92 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yuxun Guo",
+    "label": "Physicist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yuxunguo@lbl.gov",
+    "phone": "(240) 413-8190",
+    "url": "https://yuxunguo.github.io",
+    "summary": "Theoretial nuclear physicist on hadron structure",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1 cyclotron Rd",
+      "postalCode": "CA 94720",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Nuclear Science Division, Lawrence Berkeley National Laboratory ",
+      "position": "Postdoctoral researcher",
+      "url": "https://nt.lbl.gov",
+      "startDate": "2023-09-01",
+      "endDate": "Now",
+      "summary": "",
       "highlights": [
-        "Relativity"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Maryland, college park, MD, 20742 US",
+      "url": "https://umdphysics.umd.edu",
+      "area": "Department of Physics",
+      "studyType": "Ph.D. in Physics",
+      "startDate": "2018",
+      "endDate": "2023",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Tsinghua University, Beijing, China",
+      "url": "https://www.phys.tsinghua.edu.cn/phyen/",
+      "area": "Department of Physics",
+      "studyType": "B.S. in Physics",
+      "startDate": "2014",
+      "endDate": "2018",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ralph Myers & Friends of Physics Award",
+      "url": "https://umdphysics.umd.edu/academics/graduate/grad-awards.html",
+      "date": "2023",
+      "awarder": "Department of Physics, University of Maryland",
+      "summary": "For Outstanding Teaching Assistant"
+    },
+    {
+      "title": "JSA/Jefferson Lab Graduate Fellowship",
+      "url": "https://www.jlab.org/news/releases/jsa-announces-nine-new-graduate-fellows-2021-2022",
+      "date": "2021 to 2022",
+      "awarder": "Jefferson Lab"
+    },
+    {
+      "title": "Center for Nuclear Femtography Graduate Fellowship",
+      "url": "https://www.femtocenter.org/graduate-fellow-research",
+      "date": "2021 to 2022",
+      "awarder": "Center for Nuclear Femtography"
+    },
+    {
+      "title": "Dean's Fellowship",
+      "date": "2018",
+      "awarder": "Department of Physics, University of Maryland"
+    },
+    {
+      "title": "Tsinghua Xuetang Talents Physics Program",
+      "url": "https://www.tsinghua.edu.cn/en/Admissions/Undergraduate/Tsinghua_Xuetang_Talents_Program.htm",
+      "date": "2015 to 2018",
+      "awarder": "Tsinghua University"
     }
   ],
   "certificates": [],
@@ -63,7 +94,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker"
     },
     {
