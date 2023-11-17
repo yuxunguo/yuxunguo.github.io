@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Here are collections of public repos for previous publications.
-nav: true
-nav_order: 4
+nav: false
+nav_order: 6
 ---
 
 ## GitHub users
